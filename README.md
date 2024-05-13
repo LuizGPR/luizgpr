@@ -17,10 +17,8 @@
 
 <h3 align="center"> Contato/Contact: </h3>
 <p align="center">
-  <a href="mailto:pelegatti.28@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/luizgpr/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+    <a href="https://www.linkedin.com/in/luizgpr/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:pelegatti.28@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.instagram.com/luizgpr"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href="https://twitter.com/pelegatti_luiz"><img src="https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=dark"/></a>
 </p>
